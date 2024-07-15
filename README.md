@@ -8,10 +8,9 @@ I'm a software developer with a passion for open-source projects, web developmen
 - 👯 I’m looking to collaborate on open-source projects related to web development and network management.
 - 💬 Ask me about JavaScript, HTML, CSS, Python , networks and systems.
 - 📫 How to reach me :
-  
-      - Email : [anasaouina2002@gmail.com](mailto:anasaouina2002@gmail.com).
-      - Phone : +212606756561.
-      - Portfolio :  https://aouina-anas.web.app .
+  - Email : [anasaouina2002@gmail.com](mailto:anasaouina2002@gmail.com)
+  - Phone : +212606756561
+  - Portfolio :  https://aouina-anas.web.app
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anas-aouina-a076151b9/)
