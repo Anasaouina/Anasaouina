@@ -7,9 +7,9 @@ I'm a software developer with a passion for open-source projects, web developmen
 - 🌱 I’m currently learning React, Node.js, and network security protocols.
 - 👯 I’m looking to collaborate on open-source projects related to web development and network management.
 - 💬 Ask me about JavaScript, HTML, CSS, Python , networks and systems
-- 📫 How to reach me:
+- 📫 How to reach me :
       - mail : [anasaouina2002@gmail.com](mailto:anasaouina2002@gmail.com)
-      - phpne : +212606756561
+      - phone : +212606756561
       - Portfolio :  https://aouina-anas.web.app
 
 ## Connect with Me
