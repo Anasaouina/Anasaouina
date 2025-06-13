@@ -1,17 +1,64 @@
-# Hi there, I'm Anas Aouina! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f3d&height=230&section=header&text=Hi%20there,%20I'm%20Anas%20Aouina!%20👋&fontSize=38&fontAlignY=40&fontColor=ffffff"/>
 
-## About Me
-I'm a software developer with a passion for open-source projects, web development, and learning new technologies.
+---
 
-- 👀 I’m interested in web development, network management, and cybersecurity.
-- 🌱 I’m currently learning React, Node.js, and network security protocols.
-- 👯 I’m looking to collaborate on open-source projects related to web development and network management.
-- 💬 Ask me about JavaScript, HTML, CSS, Python , networks and systems.
-- 📫 How to reach me :
-  - Email : [anasaouina2002@gmail.com](mailto:anasaouina2002@gmail.com)
-  - Phone : +212606756561
-  - Portfolio :  https://aouina-anas.web.app
+## 🔎 About Me
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anas-aouina-a076151b9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/Anas_ao23)
+I'm a passionate **software developer** who loves learning, building, and contributing to impactful projects. My interests lie at the intersection of:
+
+- 💻 **Web Development** — JavaScript, React, Node.js  
+- 🌐 **Network & Systems Management**  
+- 🔐 **Cybersecurity** and secure coding practices  
+- 🤝 Open-source collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`JavaScript` · `HTML5` · `CSS3` · `Python` · `Bash`
+
+**Frameworks & Tools**  
+`React` · `Node.js` · `Express` · `MongoDB`  
+`Linux` · `Git & GitHub` · `VS Code`
+
+**Core Skills**  
+Web Development · Network Administration · Scripting · Systems Security
+
+---
+
+## 📊 GitHub Stats
+
+![AnasAouina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anasaouina&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasaouina&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anasaouina&theme=tokyonight&hide_border=false)
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Contribute to **5+ open-source projects**
+- 🧠 Complete certifications in **Networking** and **Ethical Hacking**
+- 📚 Deepen my knowledge of **React**, **Node.js**, and **network tools**
+- ✍️ Start blogging about my learning journey
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [anasaouina2002@gmail.com](mailto:anasaouina2002@gmail.com)  
+- 📱 Phone: +212606756561  
+- 🌐 Portfolio: [aouina-anas.web.app](https://aouina-anas.web.app)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/anas-aouina/))  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f3d&height=100&section=footer"/>
