@@ -33,7 +33,6 @@ Web Development · Network Administration · Scripting · Systems Security
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasaouina&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anasaouina&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -56,7 +55,7 @@ Web Development · Network Administration · Scripting · Systems Security
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/anas-aouina/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com](https://www.linkedin.com/in/anas-aouina/)](https://www.linkedin.com/in/anas-aouina/))  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com)
 
 ---
