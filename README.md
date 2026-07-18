@@ -84,7 +84,7 @@ I operate at the intersection of **software engineering** and **offensive securi
 
 ---
 
-## 🏁 2025 Objectives
+## 🏁 2026 Objectives
 
 ```
 [██████░░░░] Networking Certification (CompTIA Network+ / CCNA)
